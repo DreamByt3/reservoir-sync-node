@@ -156,4 +156,5 @@ model transfers {
 
   created_at DateTime? @db.Timestamp
   updated_at DateTime? @db.Timestamp
+  
 }
